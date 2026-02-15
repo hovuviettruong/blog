@@ -1,0 +1,5 @@
+{
+  "name": "Modern Minimalist Blog",
+  "description": "A clean, modern blog platform with dark mode, search, categories, and local storage persistence.",
+  "requestFramePermissions": []
+}
